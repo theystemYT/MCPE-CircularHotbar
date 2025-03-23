@@ -5,6 +5,7 @@ The MCPE Circular Hotbar mod provides a unique and immersive experience for Mine
 ### Features:
 - Circular hotbar UI for improved aesthetic and gameplay,
 - Works seamlessly with Minecraft Pocket Edition (MCPE), and is easy to use.
+- You can also move the circular hotbar to your desired location on your screen.
 
 ### Credits:
 Pack created by [@theystem.](https://www.youtube.com/@theystem)
