@@ -1,5 +1,4 @@
 ![Static Badge](https://img.shields.io/badge/forks-false-red)
-
 ![Static Badge](https://img.shields.io/badge/Check%20license%20for%20more%20info.-yellow)
 # MCPE Circular Hotbar
 
